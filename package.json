@@ -1,0 +1,53 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "private": false,
+  "description": "JavaScript exercises in different levels from the 'codewars.com' website, with my solution and the most popular solution, with test cases.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orassayag/codewars.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "kata",
+    "katas",
+    "exercises",
+    "JavaScript exercises",
+    "codewars"
+  ],
+  "license": "UNLICENSED",
+  "author": "Or Assayag <orassayag@gmail.com>",
+  "contributors": [
+    {
+      "name": "Or Assayag",
+      "email": "orassayag@gmail.com",
+      "url": "https://github.com/orassayag"
+    }
+  ],
+  "main": "src/katas/duplicateEncoder.js",
+  "files": [
+    "src",
+    ".eslintignore",
+    ".eslintrc",
+    ".gitignore",
+    ".jsbeautifyrc",
+    ".npmignore",
+    "INSTRUCTIONS.md",
+    "package-lock.json",
+    "package.json",
+    "README.md"
+  ],
+  "scripts": {
+    "stop": "taskkill -f -im node.exe"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.27.0"
+  }
+}
