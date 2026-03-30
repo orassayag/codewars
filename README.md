@@ -94,4 +94,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## License
 
-This project is currently `UNLICENSED` (as defined in `package.json`).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
